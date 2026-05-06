@@ -1,0 +1,81 @@
+﻿  Full Project (01 to 04).cpp
+C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\clsString.h(40,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Full%20Project%20(01%20to%2004).cpp')
+  
+C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\clsString.h(45,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Full%20Project%20(01%20to%2004).cpp')
+  
+C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\clsString.h(57,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Full%20Project%20(01%20to%2004).cpp')
+  
+C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\clsString.h(194,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Full%20Project%20(01%20to%2004).cpp')
+  
+C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\clsString.h(325,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Full%20Project%20(01%20to%2004).cpp')
+  
+C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\clsString.h(373,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Full%20Project%20(01%20to%2004).cpp')
+  
+C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\clsUser.h(198,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Full%20Project%20(01%20to%2004).cpp')
+      C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\clsUser.h(26,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\clsInputValidate.h(115,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Full%20Project%20(01%20to%2004).cpp')
+  
+C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\clsInputValidate.h(119,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Full%20Project%20(01%20to%2004).cpp')
+  
+C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\clsBankClient.h(206,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Full%20Project%20(01%20to%2004).cpp')
+      C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\clsBankClient.h(152,12):
+      see declaration of 'clsBankClient::stTrnsferLogRecord'
+  
+C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Full%20Project%20(01%20to%2004).cpp')
+  
+C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\clsBankClient.h(162,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Full%20Project%20(01%20to%2004).cpp')
+  
+C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\clsBankClient.h(163,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Full%20Project%20(01%20to%2004).cpp')
+  
+C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\clsBankClient.h(164,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Full%20Project%20(01%20to%2004).cpp')
+  
+C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\clsBankClient.h(421,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Full%20Project%20(01%20to%2004).cpp')
+  
+C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\clsBankClient.h(434,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Full%20Project%20(01%20to%2004).cpp')
+  
+C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Full%20Project%20(01%20to%2004).cpp')
+  
+C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Full%20Project%20(01%20to%2004).cpp')
+  
+C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Full%20Project%20(01%20to%2004).cpp')
+  
+C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\clsTransferScreen.h(42,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Full%20Project%20(01%20to%2004).cpp')
+  
+C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\clsTransferScreen.h(47,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Full%20Project%20(01%20to%2004).cpp')
+  
+C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Full%20Project%20(01%20to%2004).cpp')
+  
+C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\clsUpdateCurrencyRateScreen.h(17,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Full%20Project%20(01%20to%2004).cpp')
+  
+C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\clsCurrencyCalculatorScreen.h(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Full%20Project%20(01%20to%2004).cpp')
+  
+C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\clsBankClient.h(376,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\clsUser.h(360,1): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\clsBankClient.h(438,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+  Full Project (01 to 04).vcxproj -> C:\Users\Lenovo\Desktop\.vscoomunity\C++\OOP in C++ (level2)\Organize Your Classes\Full Project (01 to 04)\x64\Debug\Full Project (01 to 04).exe
